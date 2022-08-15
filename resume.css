@@ -32,7 +32,7 @@
 #frm1{
    position: relative;
 }
-f1{
+.f1{
     position: relative;
 }
 #name2{
@@ -222,25 +222,16 @@ position: relative;
     height: 300px;
     width: 50px;
   }
-.div1{
-    height: 60px;
-    width: 50px;
-    background-color: rgba(0, 255, 255, 0);
-  }
   button{
-    width: 78px;
+    width: 90px;
     height: 60px;
-    background-color:rgba(39, 37, 37, 0.503);
-    color:black;
+    background-color:rgba(88, 221, 248, 0.503);
+    color:rgb(31, 156, 223);
     cursor: pointer;
     
-  }
-  a{
-    background-color: none;
-    color: none;
   }
   button:hover{
     color: rgb(25, 163, 156);
     background-color: white;
+    
   }
-  
